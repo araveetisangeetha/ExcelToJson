@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/avijayalakshmi/Documents/Projects/Production/ExcelToJson/ExcelToJson.csproj": {}
+  },
+  "projects": {
+    "/Users/avijayalakshmi/Documents/Projects/Production/ExcelToJson/ExcelToJson.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/avijayalakshmi/Documents/Projects/Production/ExcelToJson/ExcelToJson.csproj",
+        "projectName": "ExcelToJson",
+        "projectPath": "/Users/avijayalakshmi/Documents/Projects/Production/ExcelToJson/ExcelToJson.csproj",
+        "packagesPath": "/Users/avijayalakshmi/.nuget/packages/",
+        "outputPath": "/Users/avijayalakshmi/Documents/Projects/Production/ExcelToJson/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/avijayalakshmi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "ExcelDataReader": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            },
+            "newtonsoft.json": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

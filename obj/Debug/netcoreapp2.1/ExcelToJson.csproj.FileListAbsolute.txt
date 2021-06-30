@@ -1,0 +1,12 @@
+/Users/avijayalakshmi/Documents/Projects/Production/ExcelToJson/bin/Debug/netcoreapp2.1/ExcelToJson.deps.json
+/Users/avijayalakshmi/Documents/Projects/Production/ExcelToJson/bin/Debug/netcoreapp2.1/ExcelToJson.runtimeconfig.json
+/Users/avijayalakshmi/Documents/Projects/Production/ExcelToJson/bin/Debug/netcoreapp2.1/ExcelToJson.runtimeconfig.dev.json
+/Users/avijayalakshmi/Documents/Projects/Production/ExcelToJson/bin/Debug/netcoreapp2.1/ExcelToJson.dll
+/Users/avijayalakshmi/Documents/Projects/Production/ExcelToJson/bin/Debug/netcoreapp2.1/ExcelToJson.pdb
+/Users/avijayalakshmi/Documents/Projects/Production/ExcelToJson/obj/Debug/netcoreapp2.1/ExcelToJson.csprojAssemblyReference.cache
+/Users/avijayalakshmi/Documents/Projects/Production/ExcelToJson/obj/Debug/netcoreapp2.1/ExcelToJson.AssemblyInfoInputs.cache
+/Users/avijayalakshmi/Documents/Projects/Production/ExcelToJson/obj/Debug/netcoreapp2.1/ExcelToJson.AssemblyInfo.cs
+/Users/avijayalakshmi/Documents/Projects/Production/ExcelToJson/obj/Debug/netcoreapp2.1/ExcelToJson.csproj.CoreCompileInputs.cache
+/Users/avijayalakshmi/Documents/Projects/Production/ExcelToJson/obj/Debug/netcoreapp2.1/ExcelToJson.dll
+/Users/avijayalakshmi/Documents/Projects/Production/ExcelToJson/obj/Debug/netcoreapp2.1/ExcelToJson.pdb
+/Users/avijayalakshmi/Documents/Projects/Production/ExcelToJson/obj/Debug/netcoreapp2.1/ExcelToJson.genruntimeconfig.cache
